@@ -6,9 +6,9 @@ Images are loaded using ImageIO.read and stored in a BufferedImage arrayList. Im
 The program allows to load images with the following formats: bmp, jpg and png.
 Loaded images can be processed applying 25 different Image processing algorithms, for example: Bit plane slicing, Negative, Arithmetic operations, convolutions with several masks etc.
 
-For arithmetic operations, bitwise operations and function transformations the images wanted to be processed can be specified in the terminal.
+For arithmetic operations, bitwise operations and function transformations, images wanted to be processed can be specified in the terminal.
 
-Processed images can be saved by pressing the selecting the image format.
+Processed images can be saved by selecting the image format.
 
 <b>Here's a demo</b><br>
 <img src="images/demo.gif"> 

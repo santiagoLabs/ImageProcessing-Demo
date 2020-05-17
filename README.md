@@ -13,7 +13,7 @@ Processed images can be saved by selecting the image format.
 <b>Here's a demo</b><br>
 <img src="images/demo.gif"> 
 
-<b>More examples..</b><br>
+<b>More examples...</b><br>
 <img src="images/ex1.png" width="50%" height="50%">
 <img src="images/ex2.png" width="49%" height="50%">
 <img src="images/ex3.png" width="50%" height="50%">

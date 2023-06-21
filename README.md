@@ -23,4 +23,3 @@ After processing, the resulting images can be saved by right clicking on them.
 <img src="images/ex2.png" width="49%" height="50%">
 <img src="images/ex3.png" width="50%" height="50%">
 <img src="images/ex4.png" width="49%" height="50%">
-<img src="images/ex5.png" width="50%" height="50%">

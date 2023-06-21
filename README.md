@@ -1,14 +1,19 @@
 # ImageProcessing Demo
 
-Image Processing software with GUI developed in Java using Java Awt and Java Swing.
-Images are loaded using ImageIO.read and stored in a BufferedImage arrayList. Images(pixel values) are stored in 3D matrices(R, G, B).
+This web app is an image processing tool.
+The frontend is built using: HTML, JS, Jquery and CSS.
+The backend is built using Java SpringBoot. 
 
-The program allows to load images with the following formats: bmp, jpg and png.
-Loaded images can be processed applying 25 different Image processing algorithms, for example: Bit plane slicing, Negative, Arithmetic operations, convolutions with several masks etc.
+The frontend communicates with the backend via AJAX calls to a REST API.
 
-For arithmetic operations, bitwise operations and function transformations, images wanted to be processed can be specified in the terminal.
+Initially this project was not a web app but a desktop application built using Java AWT and Java Swing.
+I decided to refactor it because why not? It's fun. 
 
-Processed images can be saved by selecting the image format.
+The pixel values of the images are stored in 3D matrices representing the Red (R), Green (G), and Blue (B) channels.
+
+The Web app supports loading images in various formats, including BMP, JPG, and PNG. Once loaded, the images can undergo processing using a selection of 26 different image processing algorithms. Some examples of these algorithms include Bit Plane Slicing, Negative Transformation, Arithmetic Operations, Convolution with various masks, and more.
+
+After processing, the resulting images can be saved by right clicking on them.
 
 <b>Here's a demo</b><br>
 <img src="images/demo.gif"> 
